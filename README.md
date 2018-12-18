@@ -1,4 +1,7 @@
 ### PAYSTACK CLI
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamuchejude/paystack-cli.svg)](https://greenkeeper.io/)
+
 > Simple CLI payment app
 
 ### Tehnologies
